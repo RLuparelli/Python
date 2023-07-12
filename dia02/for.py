@@ -1,6 +1,6 @@
 # %%
 
-nome = "Téo Calvo"
+nome = "Rodrio Luparelli"
 
 j = 1
 for i in nome:
@@ -19,3 +19,4 @@ j = int(input("Entre com o valor máximo: "))
 
 for i in range(i, j+1):
     print(i)
+# %%
